@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adilimam12
+- 👋 Hi, I’m @adil imam
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Data science at Almabetter
 - 💞️ I’m looking to collaborate on Projects
